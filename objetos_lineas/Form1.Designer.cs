@@ -160,7 +160,7 @@
             // btn_dibujar
             // 
             this.btn_dibujar.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_dibujar.Location = new System.Drawing.Point(162, 173);
+            this.btn_dibujar.Location = new System.Drawing.Point(144, 376);
             this.btn_dibujar.Name = "btn_dibujar";
             this.btn_dibujar.Size = new System.Drawing.Size(92, 33);
             this.btn_dibujar.TabIndex = 12;
@@ -172,7 +172,7 @@
             // 
             this.lbl_CantiadL.AutoSize = true;
             this.lbl_CantiadL.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_CantiadL.Location = new System.Drawing.Point(260, 181);
+            this.lbl_CantiadL.Location = new System.Drawing.Point(242, 384);
             this.lbl_CantiadL.Name = "lbl_CantiadL";
             this.lbl_CantiadL.Size = new System.Drawing.Size(109, 16);
             this.lbl_CantiadL.TabIndex = 13;
