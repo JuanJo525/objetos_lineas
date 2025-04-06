@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.frm_principal.resources
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.Properties.Resources.resources
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\bin\Debug\objetos_lineas.exe.config
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\bin\Debug\objetos_lineas.exe
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\bin\Debug\objetos_lineas.pdb
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.exe
+C:\Users\Juan\source\repos\objetos_lineas\objetos_lineas\obj\Debug\objetos_lineas.pdb
